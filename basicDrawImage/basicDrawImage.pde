@@ -1,12 +1,16 @@
-PImage img;
+
+//import processing.core.PImage;
+
+//PImage img;
 
 void setup(){
  //size(200,200);
  fullScreen();
  background(0);
- img = loadImage("bug.png");
+// img = loadImage("bug.png");
 
-image(img,width/2,height/2};
+//image(img,width/2,height/2);
+}
 
 void draw(){
   
